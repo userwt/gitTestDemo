@@ -8,4 +8,5 @@ package com.yidu.bean;
  */
 public class Teacher {
     private  String name="李小龙";
+    private String password="123456";
 }
